@@ -1,7 +1,7 @@
 # 05-VDuernberger-MyExpWB
 
 Kurze Beschreibung meines Spieles:
-Bowling: Der Spieler kann sich eine der Kugeln vom Christbaum runternehem und mit dieser dann bowlen. Über der Bahn ist eine Punkteanzeige welche die getroffenen Kegel / Keckse anzeigt.
+Bowling: Der Spieler kann sich eine der Kugeln vom Christbaum runternehmen und mit dieser dann bowlen. Über der Bahn ist eine Punkteanzeige welche die getroffenen Kegel / Keckse anzeigt.
 
 Development-Plattform: 
 - macOS Monterey
